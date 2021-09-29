@@ -1,2 +1,3 @@
 # go-leetcode
- Learn golang through leetcode.
+
+刷题顺序：数组 -> 链表 -> 哈希表 -> 字符串 -> 栈与队列 -> 树 -> 回溯 -> 贪心算法 -> 动态规划 -> 图论 -> 高级数据结构
